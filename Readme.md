@@ -1,4 +1,6 @@
 # MLEARN 510C - Supplementary Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdonaldson/mlearn_510c/HEAD)
+
 
 ## Copy Code and Install the Notebook Environment
 
