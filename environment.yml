@@ -7,4 +7,5 @@ dependencies:
   - pandas
   - scikit-learn
   - matplotlib
+  - seaborn
 prefix: /Users/jdonaldson/opt/miniconda3/envs/mlearn510
