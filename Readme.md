@@ -30,6 +30,23 @@ the mlearn510 working directory.
 $> conda create -f environment.yml
 ```
 
+This creates a conda environment called "mlearn510".  To use this environment
+we need to activate it:
+
+```
+$> conda activate mlearn510
+```
+
+(you will need to do this each time you start a new shell)
+
+The session is active until you terminate your shell.  You can manually
+close it with:
+
+```
+$> conda deactivate
+```
+
+
 ### Launch Jupyter Notebooks
 
 Launch the jupyter notebooks with the following command:
